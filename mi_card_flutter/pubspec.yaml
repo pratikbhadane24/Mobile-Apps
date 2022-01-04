@@ -25,3 +25,6 @@ flutter:
     - family: ZCOOLQingKeHuangYou
       fonts:
       - asset: fonts/ZCOOLQingKeHuangYou-Regular.ttf
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Regular.ttf
